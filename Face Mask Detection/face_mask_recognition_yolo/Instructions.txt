@@ -1,0 +1,5 @@
+1. Run 'pip install -r requirements.txt' to install required libraries.
+2. Download files inside the google drive url 'https://drive.google.com/drive/folders/1dMkD7xTwEq34P3SrEwEDdaLjrj0HefEt?usp=sharing' to download the pretrained model. This folder will have the training configuration, image dataset, and trained model weight files.
+3. Once downloaded, extract it to the package home directory. Same directory where the Object_Detection.py file is saved.
+4. Extract the images.zip file as well in the package home directory.
+5. Run Object_Detection.py file in a Python based IDE.
